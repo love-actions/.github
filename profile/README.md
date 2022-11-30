@@ -6,6 +6,8 @@ This organization includes various Github Actions for **building & deploying** c
 
 ![platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Linux%20%7C%20macOS%20%7C%20Windows-brightgreen.svg)
 
+**Our game [Techmino](https://github.com/26F-Studio/Techmino)'s github action file could be a good example for fully cross-platform deployments: [main.yml](https://github.com/26F-Studio/Techmino/blob/main/.github/workflows/main.yml)**
+
 ## Available actions
 
 - [Love actions bare package](https://github.com/marketplace/actions/love-actions-bare-package)
